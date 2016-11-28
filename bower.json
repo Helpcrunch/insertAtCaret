@@ -1,10 +1,10 @@
 {
-  "name": "insertAtCaret",
+  "name": "insert-at-caret",
   "authors": [
     "tenkvil <serhiy@helpcrunch.com>"
   ],
   "version": "1.0.0",
-  "description": "insertAtCaret",
+  "description": "insert-at-caret",
   "main": "insertAtCaret.js",
   "license": "MIT",
   "homepage": "",
